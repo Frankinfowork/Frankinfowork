@@ -25,9 +25,9 @@ Desde entonces me he dedicado a masterizar y perfeccionar mis dotes en esta tecn
 [![JSON](https://img.shields.io/badge/JSON-Tools-FF0000?style=for-the-badge&logo=JSON)]()
 
 
-[![EclipseIDE](https://img.shields.io/badge/EclipseIDE-Tools-FF9A00?style=for-the-badge&logo=EclipseIDE)]()
-[![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-Tools-FF9A00?style=for-the-badge&logo=IntelliJIDEA)]()
-[![VisualStudio](https://img.shields.io/badge/VisualStudio-Tools-FF9A00?style=for-the-badge&logo=VisualStudio)]()
+[![EclipseIDE](https://img.shields.io/badge/EclipseIDE-IDE-FF9A00?style=for-the-badge&logo=EclipseIDE)]()
+[![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-IDE-FF9A00?style=for-the-badge&logo=IntelliJIDEA)]()
+[![VisualStudio](https://img.shields.io/badge/VisualStudio-IDE-FF9A00?style=for-the-badge&logo=VisualStudio)]()
 
 [![Windows](https://img.shields.io/badge/Windows-SO-4B275F?style=for-the-badge&logo=Windows)]()
 [![Mac](https://img.shields.io/badge/Mac-SO-4B275F?style=for-the-badge&logo=macOS)]()
