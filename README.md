@@ -1,5 +1,5 @@
 # ![https://github.com/Frankinfowork](frank_emote.png) Hola, mi nombre es Fran Torres 👋
-### Programador y BigData Developer
+### BigData y Java Developer
 ![https://github.com/Frankinfowork](github_profile.png)
 
 Soy developer de software profesional desde hace más de 4 años.
