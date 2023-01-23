@@ -32,3 +32,11 @@ Desde entonces me he dedicado a masterizar y perfeccionar mis dotes en esta tecn
 [![Windows](https://img.shields.io/badge/Windows-SO-4B275F?style=for-the-badge&logo=Windows)]()
 [![Mac](https://img.shields.io/badge/Mac-SO-4B275F?style=for-the-badge&logo=macOS)]()
 [![Linux](https://img.shields.io/badge/Linux-SO-4B275F?style=for-the-badge&logo=Linux)]()
+Y alguna más...
+
+## Encuéntrame en:
+[![Discord](https://img.shields.io/badge/Discord-FranK0475-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](FranK#0475)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fran_Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-josé-torres-cantó-383007190/)
+
+[![Mail](https://img.shields.io/badge/Gmail-frank.infowork-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)](frank.infowork@gmail.com)
