@@ -4,7 +4,7 @@
 
 Soy software developer profesional desde hace más de 4 años.
 
-Terminé mis estudios finalizando el grado de Telecomunicaciones en mi ciudad natal. Despues de trabajar creando paginas web con wordpress me incliné por un perfil mas programador y conseguí entrar en 2 becas de la EOI(Alicante) con NTTData respaldando estas becas, fue muy dificil conseguir la plaza pero valió la pena, con todo lo que aprendí NTTData me ofreció mi primer empleo como desarrollador Java.
+Terminé mis estudios finalizando el grado de Telecomunicaciones en mi ciudad natal. Despues de trabajar creando paginas web con wordpress me incliné por un perfil mas programador y conseguí entrar en 2 becas de la EOI(Alicante) con NTTData respaldando estas becas, fue muy dificil conseguir la plaza pero valió la pena, con todo lo que aprendí, NTTData me ofreció mi primer empleo como desarrollador Java.
 
 Despues de un par de años de experiencia gracias a Accenture (donde hoy en dia trabajo) pude empezar a formarme y trabajar en BigData y deribados, tecnologias las cuales siempre me habia llamado la atencion.
 
