@@ -4,7 +4,13 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Creador de RaspiCode 🐺 | BigData Engineer 🚀 | Web ftcdev.es 🖥️ | YouTuber 🎬
 -------------------------------------------------------------------------------
 
-Soy un gran apasionado del manejo de datos y me encanta la enseñanza, crear contenido y proyectos nuevos. 👉Web Personal: https://ftcdev.es 👉Canal de YouTube: https://www.youtube.com/channel/UCvCOxNmX\_V-iEew-4jQ05nw 👉Aprendizaje de programación: https://raspicode.com 👉Canal de YouTube de programación: https://www.youtube.com/@RaspiCode Terminé mis estudios finalizando el grado de Telecomunicaciones y el master de Big data | IA. Después de un par de años de experiencia gracias a Accenture (donde hoy en día trabajo) pude empezar a formarme y trabajar en BigData y derivados, tecnologías las cuales siempre me había llamado la atención. Desde entonces me he dedicado a masterizar y perfeccionar mis dotes en esta tecnología que me hace tan feliz.
+Soy un gran apasionado del manejo de datos y me encanta la enseñanza, crear contenido y proyectos nuevos. 
+👉 Web Personal: https://ftcdev.es 
+👉 Canal de YouTube: https://www.youtube.com/channel/UCvCOxNmX\_V-iEew-4jQ05nw 
+👉 Aprendizaje de programación: https://raspicode.com 
+👉 Canal de YouTube de programación: https://www.youtube.com/@RaspiCode 
+
+Terminé mis estudios finalizando el grado de Telecomunicaciones y el master de Big data | IA. Después de un par de años de experiencia gracias a Accenture (donde hoy en día trabajo) pude empezar a formarme y trabajar en BigData y derivados, tecnologías las cuales siempre me había llamado la atención. Desde entonces me he dedicado a masterizar y perfeccionar mis dotes en esta tecnología que me hace tan feliz.
 
 *   🌍  Vivo en Alicante
 *   🖥️  Mira mi portfolio en [ftcdev.es](http://ftcdev.es)
